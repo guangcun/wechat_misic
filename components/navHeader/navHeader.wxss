@@ -1,0 +1,23 @@
+/* 头部 */
+.header{
+  margin-bottom: 20rpx;
+}
+.header .title{
+  font-size: 26rpx;
+  color: #666;
+} 
+.header .navTest{
+  height: 50rpx;
+  line-height: 50rpx;
+}
+.header .navTest .text{
+  font-size: 30rpx;
+}
+.header .navTest .more{
+  font-size: 24rpx;
+  float: right;
+  border: 1rpx solid #666;
+  border-radius: 20rpx;
+  color: #666;
+  padding: 0 20rpx;
+}
